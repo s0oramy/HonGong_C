@@ -4,7 +4,7 @@ int main(void)
 {
     char str[80];
 
-    printf("insert: ");
+    printf("insert: ");  //ex: apple jam
     scanf("%s", str);
     printf("first word: %s\n", str);
     scanf("%s", str);
