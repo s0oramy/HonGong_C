@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+#include <string.h>  //strcpy 함수를 사용하기 위해
 
 int main(void)
 {
