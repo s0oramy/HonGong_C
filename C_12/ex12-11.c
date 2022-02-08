@@ -6,7 +6,7 @@ int main(void)
     char str1[80], str2[80];
     char *resp;
 
-    printf("2개의 과일 이름 입력: ");
+    printf("insert 2개의 과일 이름: ");
     scanf("%s%s", str1, str2);
     if (strlen(str1) > strlen(str2))
 	resp = str1;
